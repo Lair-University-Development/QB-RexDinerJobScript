@@ -1,5 +1,4 @@
     -- add to qb-core/shared/items.lua
-    -- Need xmmx_letscookplus Items [Location :xmmx_letscookplus\INSTALL\qbcore-items.lua]
 
 
 --Lu-Diner 
